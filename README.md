@@ -2,7 +2,7 @@
 + *This is a simple, static Netflix website.*
 + *This project provides a straightforward foundation for understanding the basics of web development and creating a simple Netflix website.*
 
-### *Technologies Used :*v
+### *Technologies Used :*
 + ***HTML5** : Structured markup.*
 + ***CSS** : Modern styling with Flexbox and Grid.*
 
